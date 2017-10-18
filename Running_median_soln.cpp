@@ -1,5 +1,5 @@
 #include<bits/stdc++.h>
-
+//solution for a problem given in physical web gsoc qualifier
 #define ll long long
 using namespace std;
 int main(){
